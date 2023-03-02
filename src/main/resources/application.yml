@@ -1,0 +1,14 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: microservice-messaging
+
+twilio:
+  account_sid: AC58c5306ce893c670de87794abc5984b3
+  auth_token: 88c3ea467d1175fbf77637d0a33aa53c
+  trial_number: "+12762779233"
+
+appDescription: "Pragma Powerup"
+appVersion: "1.0.0"
